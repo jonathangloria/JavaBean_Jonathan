@@ -4,7 +4,7 @@ Jonathan Imago Dei Gloriawan - 21120117130054
 Keterangan:
 - Terdiri dari 2 folder
 - Project "JavaBean_Jonathan" merupakan project utama (project JApplet Form)
-- Sedangkan folder "Jar file" berisi file .jar yang merupakan komponen Java Bean yang digunakan (Counter dan ProgessBar).
+- Sedangkan folder "Jar file" berisi file .jar dan file project berbentu zip yang merupakan komponen Java Bean yang digunakan (Counter dan ProgessBar).
 
 ## Tugas a
 ![SStugasa](https://user-images.githubusercontent.com/58509960/82048690-47851980-96df-11ea-8d61-5eaa427c93e8.jpg)
